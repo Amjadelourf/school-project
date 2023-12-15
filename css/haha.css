@@ -1,0 +1,28 @@
+
+html{
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    width: 500px;
+}
+
+h1{
+    color: red;
+    border: 1px black solid;
+    text-align: center;
+}
+
+div{
+    border: 1px black solid;
+}
+
+.couscous{
+    background-color: brown;
+    color: white;
+}
+
+a{
+    text-align: center;
+}
